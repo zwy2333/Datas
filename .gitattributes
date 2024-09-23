@@ -1,0 +1,2 @@
+raftstereo-middlebury.pth filter=lfs diff=lfs merge=lfs -text
+raftstereo-realtime.pth filter=lfs diff=lfs merge=lfs -text
